@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\main.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\main.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/main.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\camera.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\camera.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/camera.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/camera.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\polygon.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\polygon.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/polygon.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/polygon.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\batchingRender.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\batchingRender.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/batchingRender.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/batchingRender.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\ui.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\ui.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/ui.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/ui.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\vector.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\vector.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/vector.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/vector.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\character.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\character.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/character.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/character.c.obj"
+},
+{
+  "directory": "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/my_sdl_app.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\my_sdl_app.dir\\src\\frameController.c.obj -c C:\\Users\\19196\\Documents\\vscode_Class_Cmake\\src\\frameController.c",
+  "file": "C:/Users/19196/Documents/vscode_Class_Cmake/src/frameController.c",
+  "output": "CMakeFiles/my_sdl_app.dir/src/frameController.c.obj"
+}
+]

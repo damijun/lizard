@@ -1,0 +1,9 @@
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/./my_sdl_app.exe
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/./libgcc_s_seh-1.dll
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/./libwinpthread-1.dll
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/./libstdc++-6.dll
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/data/data.txt
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/font/fengwujiutian.ttf
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/image/longGun.png
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/image/shortGun.png
+C:/Users/19196/Documents/vscode_Class_Cmake/build/_CPack_Packages/win64/ZIP/MySDLApp-1.0.0-win64/image/sniperGun.png

@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Freetype::Freetype::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Freetype__Freetype-Release-1b7811f6953e008d7192.json",
+					"name" : "Freetype::Freetype",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3::Headers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3__Headers-Release-47c6171756feb73ad4d5.json",
+					"name" : "SDL3::Headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3::SDL3-shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3__SDL3-shared-Release-107ee8e52e8db3e26606.json",
+					"name" : "SDL3::SDL3-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3::SDL3-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3__SDL3-static-Release-b51f90e6ba1d7f93b64e.json",
+					"name" : "SDL3::SDL3-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3::SDL3_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3__SDL3_test-Release-35a03b678e2d0b65d1cd.json",
+					"name" : "SDL3::SDL3_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3_image::SDL3_image-shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3_image__SDL3_image-shared-Release-e37445a3905585b9db6f.json",
+					"name" : "SDL3_image::SDL3_image-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3_image::SDL3_image-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3_image__SDL3_image-static-Release-41ae783478370a26cfec.json",
+					"name" : "SDL3_image::SDL3_image-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3_ttf::SDL3_ttf-shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3_ttf__SDL3_ttf-shared-Release-392425b780cf7289127a.json",
+					"name" : "SDL3_ttf::SDL3_ttf-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3_ttf::SDL3_ttf-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3_ttf__SDL3_ttf-static-Release-4d001b5125217a2381d3.json",
+					"name" : "SDL3_ttf::SDL3_ttf-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "harfbuzz::harfbuzz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-harfbuzz__harfbuzz-Release-f154bbd4a5d25755eef7.json",
+					"name" : "harfbuzz::harfbuzz",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-64651173aa3af9cd8860.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyCProject",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "my_sdl_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_sdl_app-Release-0f70dc3882c30cd625fe.json",
+					"name" : "my_sdl_app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/19196/Documents/vscode_Class_Cmake/build",
+		"source" : "C:/Users/19196/Documents/vscode_Class_Cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

@@ -1,0 +1,9 @@
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/my_sdl_app.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/package.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/package_source.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/rebuild_cache.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/list_install_components.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/install.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/install/local.dir
+C:/Users/19196/Documents/vscode_Class_Cmake/build/CMakeFiles/install/strip.dir

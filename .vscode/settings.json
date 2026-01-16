@@ -1,0 +1,20 @@
+{
+    "clangd.arguments": [
+        "--background-index",
+        "--background-index-priority=low",
+        "--clang-tidy",
+        "--completion-style=detailed",
+        "--fallback-style=Google",
+        "--function-arg-placeholders=false",
+        "--header-insertion=never",
+        "--header-insertion-decorators",
+        "--import-insertions",
+        "--rename-file-limit=0",
+        "--enable-config",
+        "-j=24",
+        "--pch-storage=memory",
+        "--pretty",
+        "--compile-commands-dir=${workspaceFolder}/build",
+        "--query-driver=C:/msys64/ucrt64/bin/gcc.exe"
+    ],
+}
